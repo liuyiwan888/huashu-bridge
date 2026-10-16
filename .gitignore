@@ -1,0 +1,14 @@
+# ---- 本地生成物 / 运行时状态（不入库）----
+成片/
+publish/
+*.mp4
+*.spec.json
+bgm_state.json
+__pycache__/
+*.pyc
+.video-publish/
+打开成片目录.bat
+打开发布目录.bat
+
+# ---- 上游引擎（单独克隆为同级目录，不入库）----
+huashu-art-motion/
